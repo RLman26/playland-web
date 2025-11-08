@@ -1,0 +1,5 @@
+[2025-11-05, 20:40:23] /home/vol2_8/infinityfree.com/if0_40282779/mcplayland.eu/htdocs/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(196): Unable to load template 'file:ghost/ghost.tpl'
+[2025-11-05, 20:42:06] /home/vol2_8/infinityfree.com/if0_40282779/mcplayland.eu/htdocs/modules/Ghost/pages/posts.php(32): Call to undefined method Util::truncate()
+[2025-11-05, 20:42:28] /home/vol2_8/infinityfree.com/if0_40282779/mcplayland.eu/htdocs/modules/Ghost/classes/Ghost.php(24): Call to undefined method Util::truncate()
+[2025-11-05, 19:42:50] /home/vol2_8/infinityfree.com/if0_40282779/mcplayland.eu/htdocs/modules/Core/queries/debug_link.php(257): Call to undefined function disk_total_space()
+[2025-11-07, 20:41:33] /home/vol2_8/infinityfree.com/if0_40282779/mcplayland.eu/htdocs/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(210): cURL error 6: Could not resolve host: discord.com (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://discord.com/api/v9/oauth2/token
